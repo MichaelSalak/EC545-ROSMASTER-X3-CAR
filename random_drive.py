@@ -26,8 +26,8 @@ def main():
     start_time = time.monotonic()
 
     try:
-        print("Starting random drive in 3 seconds...")
-        time.sleep(3)
+        print("Starting random drive in 15 seconds...")
+        time.sleep(15)
 
         while time.monotonic() - start_time < TEST_DURATION:
 
