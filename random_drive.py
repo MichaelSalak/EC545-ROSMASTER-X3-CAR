@@ -10,7 +10,7 @@ TURN_RATE = 0.15           # rad/s
 MIN_DURATION = 2.0         # seconds
 MAX_DURATION = 4.0
 
-TEST_DURATION = 20.0       # stop after 20 seconds
+TEST_DURATION = 40.0       # stop after 40 seconds
 
 # Straight is more likely than turning
 DIRECTIONS = [
